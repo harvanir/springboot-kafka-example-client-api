@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.0.4.RELEASE</version>
+		<version>2.0.6.RELEASE</version>
 	</parent>
 	<artifactId>springboot-kafka-example-client-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
